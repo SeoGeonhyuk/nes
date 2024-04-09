@@ -1,4 +1,5 @@
-main
+
+test
 ### Summary
 
 This is an NES emulator written in Go.
